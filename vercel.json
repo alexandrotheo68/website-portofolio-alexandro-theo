@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/alexandro_theo_portfolio.html"
+    }
+  ]
+}
